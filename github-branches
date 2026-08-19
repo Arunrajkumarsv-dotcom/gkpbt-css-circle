@@ -2,10 +2,11 @@ Command:
 $ git branch -a -vv
 
 Terminal output:
-* main                a42f40d [origin/main] fix: correct README formatting
-  bug-fix-typo        a42f40d fix: correct README formatting
+* main                [origin/main] up to date
+  bug-fix-typo        [origin/bug-fix-typo] merged into main
   remotes/origin/HEAD -> origin/main
-  remotes/origin/main a42f40d fix: correct README formatting
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
 
 Working tree:
 ## main...origin/main
