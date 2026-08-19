@@ -2,9 +2,10 @@ Command:
 $ git branch -a -vv
 
 Terminal output:
-* main                297c337 [origin/main] feat: complete lab exercises and final updates
+* main                a42f40d [origin/main] fix: correct README formatting
+  bug-fix-typo        a42f40d fix: correct README formatting
   remotes/origin/HEAD -> origin/main
-  remotes/origin/main 297c337 feat: complete lab exercises and final updates
+  remotes/origin/main a42f40d fix: correct README formatting
 
 Working tree:
 ## main...origin/main

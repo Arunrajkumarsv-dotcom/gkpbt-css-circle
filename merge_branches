@@ -2,7 +2,7 @@ Commands:
 $ git checkout main
 Switched to branch 'main'
 $ git merge bug-fix-typo
-Updating 297c337..MERGED_COMMIT
+Updating b04445f..a42f40d
 Fast-forward
- README.md | 1 file changed, 1 insertion(+)
-1 file changed, 1 insertion(+)
+ README.md | 1 file changed, 1 insertion(+), 1 deletion(-)
+1 file changed, 1 insertion(+), 1 deletion(-)
