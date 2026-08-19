@@ -1,14 +1,14 @@
 Command:
-curl -sS https://api.github.com/repos/Arunrajkumarsv-dotcom/gkpbt-css-circle
+curl -sS https://api.github.com/repos/Arunrajkumarsv-dotcom/github-final-project
 
 Relevant terminal output:
 {
-  "full_name": "Arunrajkumarsv-dotcom/gkpbt-css-circle",
-  "html_url": "https://github.com/Arunrajkumarsv-dotcom/gkpbt-css-circle",
+  "full_name": "Arunrajkumarsv-dotcom/github-final-project",
+  "html_url": "https://github.com/Arunrajkumarsv-dotcom/github-final-project",
   "fork": true,
   "parent": {
-    "full_name": "ibm-developer-skills-network/gkpbt-css-circle",
-    "html_url": "https://github.com/ibm-developer-skills-network/gkpbt-css-circle"
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
   },
   "default_branch": "main"
 }

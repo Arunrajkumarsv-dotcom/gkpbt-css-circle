@@ -1,12 +1,23 @@
-# CSS Circle
+# Simple Interest Calculator
 
-This Coursera Git lab demonstrates how to create a blue circle with a `div` and CSS.
+This project contains a Bash calculator for simple interest.
+
+Simple interest is calculated with:
+
+`simple interest = (principal * rate * time) / 100`
 
 ## Run the project
 
-Open [circle.html](circle.html) in a web browser. The page displays a responsive,
-perfectly round blue shape created without an image or canvas element.
+Run the script from a terminal:
+
+```bash
+./simple-interest.sh
+```
+
+The script prompts for the principal amount, annual rate of interest, and time
+period in years, then prints the calculated simple interest.
 
 ## Files
-- `circle.html` contains the page structure and accessible label.
-- `style.css` defines the circle's color, size, shape, and spacing.
+
+- `simple-interest.sh` contains the Bash calculator.
+- `circle.html` and `style.css` contain the original CSS exercise.
