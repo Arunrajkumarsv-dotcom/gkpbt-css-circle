@@ -1,0 +1,9 @@
+Command:
+curl -sS 'https://api.github.com/repos/Arunrajkumarsv-dotcom/gkpbt-css-circle/pulls?state=all'
+
+Terminal output:
+{
+  "pull_requests": 0,
+  "repository": "Arunrajkumarsv-dotcom/gkpbt-css-circle",
+  "message": "No pull request has been created yet. Create one from a fork branch to obtain the valid pull request URL and head repository."
+}

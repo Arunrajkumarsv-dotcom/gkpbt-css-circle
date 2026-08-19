@@ -1,0 +1,10 @@
+Command:
+$ git branch -a -vv
+
+Terminal output:
+* main                297c337 [origin/main] feat: complete lab exercises and final updates
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main 297c337 feat: complete lab exercises and final updates
+
+Working tree:
+## main...origin/main
